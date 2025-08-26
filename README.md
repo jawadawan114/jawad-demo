@@ -1,3 +1,3 @@
 # jawad-demo
 This is my first git repository.
-author-Jawad Ahmad.
+author-Jawad Ahmad awan.
